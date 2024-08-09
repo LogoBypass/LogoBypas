@@ -1,0 +1,25 @@
+MemoryPatch::createWithHex("libanogs.so", 0x5ACF18,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner Q WORLD
+MemoryPatch::createWithHex("libanogs.so", 0x3FF9AC,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x5ACE2C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x16A6C8,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x18F46C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x13B3F4,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x13B28C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x14EBA8,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x18F46C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x18FA4C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x174CAC,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1676F8,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x3BC358,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x3C2CE8,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x3F8F4C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D3D5C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D3E94,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D21A4,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D237C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D237C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D2AE4,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D3168,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D317C,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D31B8,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
+MemoryPatch::createWithHex("libanogs.so", 0x1D3468,"00 00 80 D2 C0 03 5F D6").Modify();// by @meloman4ikowner
